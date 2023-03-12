@@ -1,4 +1,4 @@
-﻿System.Console.WriteLine("Введите начальное число M: ");
+﻿Console.WriteLine("Введите начальное число M: ");
 int M = Convert.ToInt32(Console.ReadLine());
 
 System.Console.WriteLine("Введите конечное число N: ");
